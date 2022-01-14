@@ -9,7 +9,7 @@
 
 <strong>Figma:</strong> 
 
-https://www.figma.com/proto/K5pS0LozurMUsL3Xc4miz5/Mirabel---Landing-Page?page-id=2%3A5&node-id=27%3A7&viewport=241%2C48%2C0.25&scaling=contain&starting-point-node-id=27%3A7&show-proto-sidebar=1
+https://www.figma.com/file/K5pS0LozurMUsL3Xc4miz5/1.0---Mirabel---Landing-Page?node-id=39%3A15
 
 
 
